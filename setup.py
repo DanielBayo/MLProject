@@ -23,8 +23,5 @@ setup(
     author='Daniel Ayangbile',
     author_email='danielayangbile@gmial.com',
     packages=find_packages(),
-    install_requires=get_requirements('requirements.txt'),
-
-    
-    
+    install_requires=get_requirements('requirements.txt')
     )
